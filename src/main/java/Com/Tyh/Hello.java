@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("master-test");
         System.out.println("hello--text");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
