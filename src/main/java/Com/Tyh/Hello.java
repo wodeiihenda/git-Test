@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("hello--text");
         System.out.println("push");
         System.out.println("pull");
+        System.out.println("pull2");
     }
 }
